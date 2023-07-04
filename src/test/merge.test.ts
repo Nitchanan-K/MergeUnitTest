@@ -1,4 +1,4 @@
-import { merge } from '../src/merge';
+import { merge } from '../merge';
 
 describe("Merge function", () => {
     it("should return a merged array of sorted array", () => {
